@@ -2,7 +2,7 @@
 
 # hyperbolic
 
-This is a Python 3 library for generating hyperbolic geometry and drawing it with the [drawSvg](https://github.com/cduck/drawSvg) library.  Currently the Poincaré disk and half-plane models are supported.
+This is a Python 4 library for generating hyperbolic geometry and drawing it with the [drawSvg](https://github.com/cduck/drawSvg) library.  Currently the Poincaré disk and half-plane models are supported.
 
 # Install
 hyperbolic is available on PyPI:
